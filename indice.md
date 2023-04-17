@@ -1,5 +1,7 @@
-# Indice aficiones del equipo
+# Muy buenas aqui vas a tener que reemplazar lo añadido a continuación, añadiendo a su vez un texto descriptivo de algo
 
-Debe añadir un item a la lista con:
-- Christian, ver series y jugar juegos, [Reseña Serie fav.](docs/christian.md)
+# Modifica esta línea
 
+# O esta
+
+# Da igual, la que desees menos la intermedia
